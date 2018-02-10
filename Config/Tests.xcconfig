@@ -1,0 +1,5 @@
+
+AUTHOR_NAME = 0xxd0
+PRODUCT_NAME = BlurEffect Tests
+PRODUCT_BUNDLE_IDENTIFIER = com.$(AUTHOR_NAME).$(PRODUCT_NAME:rfc1034identifier)
+INFOPLIST_FILE = $(SRCROOT)/Tests/Info.plist
